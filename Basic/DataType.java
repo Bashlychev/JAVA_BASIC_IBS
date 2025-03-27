@@ -1,3 +1,5 @@
+package Basic;
+
 public class DataType {
     public static void main(String[] args) {
         double maxRangeFloat = 12345.6789;

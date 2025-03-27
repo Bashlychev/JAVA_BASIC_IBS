@@ -1,3 +1,5 @@
+package Data;
+
 import java.util.Random;
 
 public class Task_14 {

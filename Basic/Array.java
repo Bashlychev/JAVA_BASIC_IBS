@@ -1,3 +1,5 @@
+package Basic;
+
 public class Array {
     public static void main(String[] args) {
         // 1. Задайте массив из 5 любых целых чисел

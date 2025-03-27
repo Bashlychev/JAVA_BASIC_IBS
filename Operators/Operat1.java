@@ -1,3 +1,5 @@
+package Operators;
+
 import java.util.Scanner;
 
 public class Operat1 {
